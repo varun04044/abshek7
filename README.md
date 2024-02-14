@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone, I am Abhishek</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abshek7" alt="abshek7" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web audio visualizers using js**
 
